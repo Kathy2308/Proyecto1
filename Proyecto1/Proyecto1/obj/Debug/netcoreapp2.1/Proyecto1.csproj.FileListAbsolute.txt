@@ -1,0 +1,11 @@
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.deps.json
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.runtimeconfig.json
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.runtimeconfig.dev.json
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.dll
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.pdb
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.csprojAssemblyReference.cache
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.AssemblyInfo.cs
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.dll
+C:\Users\AXEN-JR48Q12\Desktop\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.pdb
